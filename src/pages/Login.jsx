@@ -25,7 +25,7 @@ const Login = () => {
       <div className="container  flex justify-center">
         <form
           action=""
-          className="bg-linear-to-bl from-slate-800 to-gray-900 md:w-[30%] mt-10 rounded-sm px-8 py-6 shadow-lg"
+          className="bg-linear-to-bl from-slate-800 to-gray-900 w-[95%] md:w-[30%] mt-10 rounded-sm px-8 py-6 shadow-lg"
         >
           <div className="header">
             {state === "Sign Up" ? (
